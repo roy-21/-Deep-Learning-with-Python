@@ -1,10 +1,6 @@
-# -Deep-Learning-with-Python
-Hands-on deep learning projects from Jason Brownlee’s book using Keras and TensorFlow. Covers MLP, CNN, RNN, NLP, time series, regularization, tuning, and real-world datasets like Iris, Sonar, Pima Indians Diabetes and MNIST. Each chapter includes code, exercises, and project-based learning.
-
-
 # Deep Learning with Python (Keras & TensorFlow)
 
-This repository contains my complete hands-on journey through **"Deep Learning with Python"** by Jason Brownlee’s, using Keras and TensorFlow.
+This repository contains my complete hands-on journey through Deep Learning with Python by Jason Brownlee, using Keras and TensorFlow. It includes practical deep learning projects covering MLP, CNN, RNN, NLP, time series forecasting, regularization, hyperparameter tuning, and more. Real-world datasets like Iris, Sonar, Pima Indians Diabetes, and MNIST are used. Each chapter features organized code, exercises, and project-based learning.
 
 ##  Structure
 
